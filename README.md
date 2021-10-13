@@ -11,15 +11,15 @@
  </div>
   
   <div> <br>
+    <a href="https://www.linkedin.com/in/deividlorenz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:deividlorenz@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  target="_blank"></a>
+    <a href = "https://teams.microsoft.com/l/chat/0/0?users=deividlorenz@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>   
   <a href="https://www.facebook.com/deividlorenz" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/deividlorenz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/deividlorenz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <a href = "mailto:deividlorenz@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  target="_blank"></a>
-  <a href="https://www.linkedin.com/in/deividlorenz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+      
   ![Snake animation](https://github.com/deividlorenz/deividlorenz/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ </div>
   
   
   
