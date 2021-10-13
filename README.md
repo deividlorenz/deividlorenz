@@ -8,6 +8,7 @@
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Csharp" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  </div>
   
   <div> <br>
