@@ -17,8 +17,6 @@
   <a href="https://instagram.com/deividlorenz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/deividlorenz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://deividlorenz.azurewebsites.net" target="_blank"><img height="29" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">
-    
-  ![Snake animation](https://github.com/deividlorenz/deividlorenz/blob/output/github-contribution-grid-snake.svg)
  </div>
   
   
